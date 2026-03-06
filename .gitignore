@@ -4,3 +4,4 @@ data/
 creditcard.csv
 *.csv
 data/
+"**/.ipynb_checkpoints/" 
